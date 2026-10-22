@@ -1,0 +1,1 @@
+const additionner = require('./calcul'); test('2+3=5', () => { expect(additionner(2, 3)).toBe(5); });
